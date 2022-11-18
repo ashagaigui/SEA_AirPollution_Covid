@@ -1,1 +1,2 @@
 # SEA_AirPollution_Covid
+A limited examination of socially and economically disadvantaged populations, pollution and covid outcomes produced mixed indicators about the effects of pollution and disadvantage on covid outcomes.  An initial exploration of data from a single state indicated that the combination of economic disadvantage and pollution exposure has some correlation with higher covid mortality.  An examination of a different, broader area of the United States similarly correlated.
